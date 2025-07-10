@@ -12,8 +12,6 @@ QA Engineer | Python | Selenium | Pytest | Postman | Docker | Requests
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![requests](https://img.shields.io/badge/requests-HTTP%20for%20Humans-blue?style=for-the-badge&logo=python&logoColor=white)
-
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=s-gorobets&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
