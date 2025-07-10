@@ -1,5 +1,3 @@
-# 👋 Привет, я Артём
-
 QA Engineer | Python | Selenium | Pytest | Postman | Docker | Requests
 
 ## 🧰 Стек технологий:
