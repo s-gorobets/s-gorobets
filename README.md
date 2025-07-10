@@ -6,11 +6,15 @@ QA Engineer | Python | Selenium | Pytest | Postman | Docker | Requests
 - 🐳 Docker, CI/CD (GitHub Actions)
 - 📊 Allure, Jira, TestRail
 ---
-_👀 В поиске интересных проектов и команд для роста!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твoй_ник&layout=compact&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=s-gorobets&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=твой_ник&theme=github-compact)
+
+
 
 <!--
 **s-gorobets/s-gorobets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
