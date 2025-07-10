@@ -13,8 +13,6 @@ _👀 В поиске интересных проектов и команд дл
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=radical)
-
 
 <!--
 **s-gorobets/s-gorobets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
