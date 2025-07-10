@@ -11,8 +11,6 @@ QA Engineer | Python | Selenium | Pytest | Postman | Docker | Requests
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твoй_ник&layout=compact&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=s-gorobets&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=твой_ник&theme=github-compact)
 
 
 
